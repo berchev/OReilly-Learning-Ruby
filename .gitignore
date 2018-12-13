@@ -2,3 +2,6 @@
 .idea/
 ..idea/inspectionProfiles/
 alvaro_task/
+.vagrant/
+Vagrantfile
+scripts/
